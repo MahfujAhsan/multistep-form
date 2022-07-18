@@ -3,7 +3,7 @@ import Form from './Form';
 
 const Home = () => {
     return (
-        <div>
+        <div className='w-6/12 mx-auto'>
             <Form />
         </div>
     );
